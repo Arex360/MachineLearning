@@ -1,0 +1,16 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iClassification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.0.1",
+    "ml5": "^0.4.1",
+    "p5": "^0.10.2"
+  }
+}
